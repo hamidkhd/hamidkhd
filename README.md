@@ -1,8 +1,9 @@
 ### I'm Hamidreza Khodadadi 👋
-- I am a graduate computer engineering student and teaching assistant at the University of Tehran.
+- I am a graduate Computer Science and Engineering student at Politecnico di Milano.
+- I was a Computer Engineering student at the University of Tehran.
 - I was a research assistant under the supervision of [Dr. Nili](https://ece.ut.ac.ir/en/~mnili) at Cognitive Systems Laboratory.
 - I was a research assistant under the supervision of [Dr. Bahrak](https://ece.ut.ac.ir/en/~bahrak) at Data Analytics Laboratory.
-- I'm interested in Reinforcement Learning, Machine Learning applications, Artificial Intelligence, Data analysis, Deep Learning, and Blockchain research fields.
+- I'm interested in Reinforcement Learning, Machine Learning applications, Artificial Intelligence, Data analysis, and Deep Learning research fields.
 
 
 
